@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+.btn {
+  padding: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 8px;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #1e293b;
+  align-self: center;
+}
+
+* {
+  font-family: 'Bree serif';
+}
+.heading {
+  color: #f0bb03;
+  font-size: 40px;
+}
+p {
+  color: #ffffff;
+  font-size: 24px;
+}
